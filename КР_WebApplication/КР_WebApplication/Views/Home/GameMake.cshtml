@@ -1,0 +1,26 @@
+﻿@model CPWebApplication.Models.MakeGame
+@{
+    ViewBag.Title = "GameMake";
+}
+<h2>Создание игры</h2>
+<div class="container">
+    @using (Html.BeginForm("AddGameClick", "Home", FormMethod.Post))
+    {
+        @Html.TextBoxFor(model => model.GameName, new { @placeholder = "Название игры", @value = @Model.GameName })<br />
+        <div>Дата проведения</div> <input data-val="true" data-val-date="Поле StartData должно содержать дату." data-val-required="Требуется поле StartData."
+                                          id="StartData" name="StartData" placeholder="Дата проведения" type="date" value="01.01.0001"><br />
+        <div>Длительность (мин)</div>
+        @Html.TextBoxFor(model => model.Lenga, new { @placeholder = "Длительность", @value = @Model.Lenga })
+        <p>
+            Время начала
+            @Html.TextBoxFor(model => model.StartHour, new { @placeholder = "чч", @value = @Model.StartHour, @style = "width: 30px;" })
+            @Html.TextBoxFor(model => model.StartMinute, new { @placeholder = "мм", @value = @Model.StartMinute, @style = "width: 30px;" })
+        </p>
+        <button type="submit" name="action" value="AddTask">+ Добавить задачу</button>
+        <button type="submit" name="action" value="AddGame">Создать игру</button>
+        <div>Создано задач: @Model.Tasks.Count</div>
+        <font color="red"><p>@ViewBag.Message</p></font>
+        <button type="submit" name="action" value="Cancel">Отмена</button>
+    }
+</div>
+

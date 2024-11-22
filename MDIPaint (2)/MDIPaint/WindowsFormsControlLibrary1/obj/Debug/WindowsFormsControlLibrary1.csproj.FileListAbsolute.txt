@@ -1,0 +1,15 @@
+C:\Users\USER\Desktop\MDIPaint (2)\MDIPaint\WindowsFormsControlLibrary1\bin\Debug\WindowsFormsControlLibrary1.dll
+C:\Users\USER\Desktop\MDIPaint (2)\MDIPaint\WindowsFormsControlLibrary1\bin\Debug\WindowsFormsControlLibrary1.pdb
+C:\Users\USER\Desktop\MDIPaint (2)\MDIPaint\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\MDIPaint (2)\MDIPaint\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.dll
+C:\Users\USER\Desktop\MDIPaint (2)\MDIPaint\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.pdb
+C:\Users\USER\Desktop\MDIPaint (2)\MDIPaint\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.RGBColor.resources
+C:\Users\USER\Desktop\MDIPaint (2)\MDIPaint\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\MDIPaint (2)\MDIPaint\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.csproj.AssemblyReference.cache
+F:\MDIPaint (2)\MDIPaint\WindowsFormsControlLibrary1\bin\Debug\WindowsFormsControlLibrary1.dll
+F:\MDIPaint (2)\MDIPaint\WindowsFormsControlLibrary1\bin\Debug\WindowsFormsControlLibrary1.pdb
+F:\MDIPaint (2)\MDIPaint\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.RGBColor.resources
+F:\MDIPaint (2)\MDIPaint\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.csproj.GenerateResource.Cache
+F:\MDIPaint (2)\MDIPaint\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.dll
+F:\MDIPaint (2)\MDIPaint\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.pdb
+F:\MDIPaint (2)\MDIPaint\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.csprojResolveAssemblyReference.cache

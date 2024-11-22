@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<описания-книг>
+  <title-info day="20">
+    <genre month="9">sf_fantasy</genre>
+    <author year="2001" day="9">
+      <first-name month="1">Джон</first-name>
+      <middle-name day="12" year="2012">Рональд Руэл</middle-name>
+      <last-name day="15">Толкин</last-name>
+    </author>
+    <book-title year="1945" month="12">Возвращение Короля</book-title>
+    <lang day="12" year="2004">ru</lang>
+    <sequence day="25" month="11" year="1224"/>
+  </title-info>
+  <first-name>Джони</first-name>
+  <author day="12" year="1234"> Не автор </author>
+</описания-книг>

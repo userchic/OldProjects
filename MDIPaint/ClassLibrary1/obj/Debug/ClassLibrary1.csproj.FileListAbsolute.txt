@@ -1,0 +1,2 @@
+F:\MDIPaint\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.AssemblyReference.cache
+F:\MDIPaint\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache

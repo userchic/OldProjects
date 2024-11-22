@@ -1,0 +1,16 @@
+﻿@model CPWebApplication.Models.Tasks
+@{
+    ViewBag.Title = "TaskMake";
+}
+<h2>TaskMake</h2>
+@using (Html.BeginForm("AddTaskClick", "Home", FormMethod.Post))
+{
+    @Html.TextBoxFor(model => model.Text, new { @placeholder = "Текст задачи", @value = Model.Text })
+    @Html.TextBoxFor(model => model.RightAnswer, new { @placeholder = "Ответ", @value = Model.RightAnswer })
+    <font color="red"><p>@ViewBag.Message</p></font>
+    <input class="btn btn-default" type="submit" value="Добавить задачу в создаваемую игру" />
+}
+@using (Html.BeginForm("Cancelmaketask", "Home", FormMethod.Post))
+{
+    <button class="btn btn-default" type="submit" name="AddGame">Отмена</button>
+}

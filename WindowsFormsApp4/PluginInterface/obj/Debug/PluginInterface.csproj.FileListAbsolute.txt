@@ -1,0 +1,12 @@
+C:\Users\USER\Desktop\WindowsFormsApp4\PluginInterface\bin\Debug\PluginInterface.exe.config
+C:\Users\USER\Desktop\WindowsFormsApp4\PluginInterface\bin\Debug\PluginInterface.exe
+C:\Users\USER\Desktop\WindowsFormsApp4\PluginInterface\bin\Debug\PluginInterface.pdb
+C:\Users\USER\Desktop\WindowsFormsApp4\PluginInterface\obj\Debug\PluginInterface.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\WindowsFormsApp4\PluginInterface\obj\Debug\PluginInterface.exe
+C:\Users\USER\Desktop\WindowsFormsApp4\PluginInterface\obj\Debug\PluginInterface.pdb
+D:\WindowsFormsApp4\PluginInterface\obj\Debug\PluginInterface.exe
+D:\WindowsFormsApp4\PluginInterface\obj\Debug\PluginInterface.pdb
+D:\WindowsFormsApp4\PluginInterface\bin\Debug\PluginInterface.exe.config
+D:\WindowsFormsApp4\PluginInterface\bin\Debug\PluginInterface.exe
+D:\WindowsFormsApp4\PluginInterface\bin\Debug\PluginInterface.pdb
+D:\WindowsFormsApp4\PluginInterface\obj\Debug\PluginInterface.csproj.CoreCompileInputs.cache

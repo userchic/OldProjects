@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CPWebApplication.Models.Game">
+    <Position X="2" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAAAAgAAAAAAAAAAAIAAAAAACAAAgAEAAAAA=</HashCode>
+      <FileName>Models\Game.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CPWebApplication.Models.GameContext">
+    <Position X="3.75" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAACAAAAAAAAAAAAAAAAAAACAAAAAAAAAIAAAAAAA=</HashCode>
+      <FileName>Models\GameContext.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CPWebApplication.Models.GameDbInitializer">
+    <Position X="5.5" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\GameDbInitializer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CPWebApplication.Models.GameProcess">
+    <Position X="4.25" Y="15" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAAAAAAAAAAAAAQAAAAAAIAQAAAAA=</HashCode>
+      <FileName>Models\GameProcess.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CPWebApplication.Models.Games">
+    <Position X="1.5" Y="18" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Games.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CPWebApplication.Models.GameTask">
+    <Position X="2.25" Y="12.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAIAAAAAAAQAAAAAAAAAAAAACgAAAAA=</HashCode>
+      <FileName>Models\GameTask.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="КР_WebApplication.Models.InGameUser">
+    <Position X="4.25" Y="12" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAAEAAAgAAAEABAAAAQAAAAgAAAAAAAACAAA=</HashCode>
+      <FileName>Models\InGameUser.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CPWebApplication.Models.MakeGame">
+    <Position X="6" Y="12.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACACAAAAAAAAgAAAAAAAAAAAAAAAAAAIAAAoCEAAAIA=</HashCode>
+      <FileName>Models\MakeGame.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CPWebApplication.Models.Sent_Answers">
+    <Position X="3.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAABAAAAAAAAgAAAAAAAAAgAAAgAAAAAAEAAAgAAAAA=</HashCode>
+      <FileName>Models\Sent_Answers.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CPWebApplication.Models.Tasks">
+    <Position X="0.75" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAgAAAAAEAAAAAACgAAAAAAAAACAAAAAA=</HashCode>
+      <FileName>Models\Tasks.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CPWebApplication.Models.Users">
+    <Position X="5.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAACgAAAEAIAAAQABAAAAAACAAAQACAAAAA=</HashCode>
+      <FileName>Models\Users.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CPWebApplication.Controllers.GameController">
+    <Position X="3.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAYAAAIAgAAAAAAAIiAAAAIgEEBAgCQABA=</HashCode>
+      <FileName>Controllers\GameController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CPWebApplication.Controllers.HomeController">
+    <Position X="0.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIBEACAAAAAQAAAAAAAAAAABABQAAAAAAAAYBgAAAQA=</HashCode>
+      <FileName>Controllers\HomeController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

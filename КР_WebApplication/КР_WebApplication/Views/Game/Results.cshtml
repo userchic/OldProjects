@@ -1,0 +1,67 @@
+﻿@{
+    Layout = "~/Views/Shared/_Layout_Game.cshtml";
+}
+@{
+    ViewBag.Title = "Results";
+}
+@{ if (CPWebApplication.Controllers.GameController.game.Player.Score > CPWebApplication.Controllers.GameController.game.RNG.Score)
+    { <h1>Победа</h1> }
+    else
+    {
+        if (CPWebApplication.Controllers.GameController.game.Player.Score < CPWebApplication.Controllers.GameController.game.RNG.Score)
+        { <h1>Поражение</h1> }
+        else
+        { <h1>Ничья</h1>}
+    }
+}
+<table class="bc-table bc-table-web" width="45%" align="center">
+    <thead>
+        <tr>
+            <th align="center">Вы</th>
+            <th align="center">Противник</th>
+
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td align="left">
+                <div class="container" title="Вы">
+                    <p>Накопленный результат: @CPWebApplication.Controllers.GameController.game.Player.Score
+                    <p>
+                        Задач: @CPWebApplication.Controllers.GameController.game.Tasks.Count
+                        <div class="container" title="Решено">
+                            <p>Решено верно:  @CPWebApplication.Controllers.GameController.game.Player.SolvedTasks
+                            <p>Решено неверно: @CPWebApplication.Controllers.GameController.game.Player.MistakedTasks
+                        </div>
+                    <p>Нет ответа: @{int num = CPWebApplication.Controllers.GameController.game.Tasks.Count - CPWebApplication.Controllers.GameController.game.Player.SolvedTasks - CPWebApplication.Controllers.GameController.game.Player.MistakedTasks;}@num
+                    <p>
+                        Выстрелов:@CPWebApplication.Controllers.GameController.game.Player.Shots
+                        <div class="container" title="Решено">
+                            <p>Попаданий: @CPWebApplication.Controllers.GameController.game.Player.Hits
+                            <p>Промахов: @CPWebApplication.Controllers.GameController.game.Player.Misses
+                        </div>
+                </div>
+            </td>
+            <td align="left">
+                <div class="container" title="Враг">
+                    <p>Накопленный результат: @CPWebApplication.Controllers.GameController.game.RNG.Score</p>
+                    <p>Задач: @CPWebApplication.Controllers.GameController.game.Tasks.Count</p>
+                    <div class="container" title="Решено">
+                        <p>Решено верно:  @CPWebApplication.Controllers.GameController.game.RNG.SolvedTasks</p>
+                        <p>Решено неверно: @CPWebApplication.Controllers.GameController.game.RNG.MistakedTasks</p>
+                    </div>
+                    <p>Нет ответа: @{num = CPWebApplication.Controllers.GameController.game.Tasks.Count - CPWebApplication.Controllers.GameController.game.RNG.SolvedTasks - CPWebApplication.Controllers.GameController.game.RNG.MistakedTasks;}@num</p>
+                    <p>Выстрелов:@CPWebApplication.Controllers.GameController.game.RNG.Shots</p>
+                    <div class="container" title="Решено">
+                        <p>Попаданий: @CPWebApplication.Controllers.GameController.game.RNG.Hits</p>
+                        <p>Промахов: @CPWebApplication.Controllers.GameController.game.RNG.Misses</p>
+                    </div>
+                </div>
+            </td>
+        </tr>
+    </tbody>
+</table>
+@using (Html.BeginForm("Main", "Home"))
+{ <input class="btn btn-default" type="submit" value="Вернуться к выбору игр" />}
+
+

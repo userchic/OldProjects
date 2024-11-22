@@ -1,0 +1,57 @@
+C:\Users\USER\Desktop\ConsoleApp6\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\USER\Desktop\ConsoleApp6\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\USER\Desktop\ConsoleApp6\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\USER\Desktop\ConsoleApp6\UnitTestProject1\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\USER\Desktop\ConsoleApp6\UnitTestProject1\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\USER\Desktop\ConsoleApp6\UnitTestProject1\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\USER\Desktop\ConsoleApp6\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Users\USER\Desktop\ConsoleApp6\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Users\USER\Desktop\ConsoleApp6\UnitTestProject1\bin\Debug\ConsoleApp6.exe
+C:\Users\USER\Desktop\ConsoleApp6\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\USER\Desktop\ConsoleApp6\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\USER\Desktop\ConsoleApp6\UnitTestProject1\bin\Debug\ConsoleApp6.pdb
+C:\Users\USER\Desktop\ConsoleApp6\UnitTestProject1\bin\Debug\ConsoleApp6.exe.config
+C:\Users\USER\Desktop\ConsoleApp6\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\USER\Desktop\ConsoleApp6\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\USER\Desktop\ConsoleApp6\UnitTestProject1\obj\Debug\UnitTestProject1.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\ConsoleApp6\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\ConsoleApp6\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CopyComplete
+C:\Users\USER\Desktop\ConsoleApp6\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Users\USER\Desktop\ConsoleApp6\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+E:\С решётка\ConsoleApp6\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\С решётка\ConsoleApp6\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\С решётка\ConsoleApp6\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\С решётка\ConsoleApp6\UnitTestProject1\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+E:\С решётка\ConsoleApp6\UnitTestProject1\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+E:\С решётка\ConsoleApp6\UnitTestProject1\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+E:\С решётка\ConsoleApp6\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+E:\С решётка\ConsoleApp6\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+E:\С решётка\ConsoleApp6\UnitTestProject1\bin\Debug\ConsoleApp6.exe
+E:\С решётка\ConsoleApp6\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\С решётка\ConsoleApp6\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\С решётка\ConsoleApp6\UnitTestProject1\bin\Debug\ConsoleApp6.pdb
+E:\С решётка\ConsoleApp6\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+E:\С решётка\ConsoleApp6\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+E:\С решётка\ConsoleApp6\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+E:\С решётка\ConsoleApp6\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+E:\С решётка\ConsoleApp6\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+F:\С решётка\ConsoleApp6\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+F:\С решётка\ConsoleApp6\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+F:\С решётка\ConsoleApp6\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+F:\С решётка\ConsoleApp6\UnitTestProject1\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+F:\С решётка\ConsoleApp6\UnitTestProject1\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+F:\С решётка\ConsoleApp6\UnitTestProject1\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+F:\С решётка\ConsoleApp6\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+F:\С решётка\ConsoleApp6\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+F:\С решётка\ConsoleApp6\UnitTestProject1\bin\Debug\ConsoleApp6.exe
+F:\С решётка\ConsoleApp6\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+F:\С решётка\ConsoleApp6\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+F:\С решётка\ConsoleApp6\UnitTestProject1\bin\Debug\ConsoleApp6.pdb
+F:\С решётка\ConsoleApp6\UnitTestProject1\bin\Debug\ConsoleApp6.exe.config
+F:\С решётка\ConsoleApp6\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+F:\С решётка\ConsoleApp6\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+F:\С решётка\ConsoleApp6\UnitTestProject1\obj\Debug\UnitTestProject1.csprojAssemblyReference.cache
+F:\С решётка\ConsoleApp6\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CoreCompileInputs.cache
+F:\С решётка\ConsoleApp6\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CopyComplete
+F:\С решётка\ConsoleApp6\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+F:\С решётка\ConsoleApp6\UnitTestProject1\obj\Debug\UnitTestProject1.pdb

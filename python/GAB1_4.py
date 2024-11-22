@@ -1,0 +1,8 @@
+name=("Руслан")
+print (name.upper)
+print (name.lower)
+print (name.swapcase)
+print (name.capitalize)
+print (name.title)
+print (name.strip)
+print (name.replace("ру","ru"))

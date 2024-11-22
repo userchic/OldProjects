@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<описания-книг>
+  <leider>
+    <price street="Ulitsa" brand="51">312</price>
+    <price street="Ulca" brand="43">312</price>
+    <price street="Street" brand="13">312</price>
+    <price street="Streetnica" brand="1">312</price>
+  </leider>
+  <compania>
+    <price street="Strit" brand="12">32</price>
+    <price street="Strit" brand="32">312</price>
+    <price street="Ulstreeta" brand="53">312</price>
+    <price street="Unknown" brand="26">312</price>
+    <price street="Klown" brand="356">312</price>
+    <price street="It" brand="123">312</price>
+    <price street="Machine" brand="424">312</price>
+    <price street="Stalin" brand="567">312</price>
+  </compania>
+</описания-книг>

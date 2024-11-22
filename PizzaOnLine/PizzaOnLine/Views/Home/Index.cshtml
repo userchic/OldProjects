@@ -1,0 +1,30 @@
+﻿@model PizzaOnLine.Models.Pizza
+@{
+    ViewBag.Title = "Home Page";
+}
+
+
+<div class="jumbotron">
+    <h1>Пиццерия Пепперони</h1>
+    <p class="lead"> Требуется повар пиццулянт</p>
+</div>
+
+@foreach (PizzaOnLine.Models.Pizza p in ViewBag.Pizzas)
+{
+    <div class="row">
+        <div class="col-md-4">
+            <h2>@p.Name</h2>
+            <p>
+                @p.Description
+            </p>
+        </div>
+        @using (Html.BeginForm("AddToCart", "Cart"))
+        {
+            @Html.Hidden("productId", p.PizzaId)
+            @Html.Hidden("returnUrl", Request.Url.PathAndQuery)
+            <input class="btn btn-default" type="submit" value="+ Добавить в корзину" />
+        }
+
+    </div>
+}
+<img src="~/Content/Pizza!!!.png" />

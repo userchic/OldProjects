@@ -1,0 +1,5 @@
+C:\Users\USER\Desktop\QueryVal\obj\Debug\QueryValuta.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\QueryVal\obj\Debug\QueryValuta.DailyForm.resources
+C:\Users\USER\Desktop\QueryVal\obj\Debug\QueryValuta.Form1.resources
+C:\Users\USER\Desktop\QueryVal\obj\Debug\QueryValuta.ProxyParam.resources
+C:\Users\USER\Desktop\QueryVal\obj\Debug\QueryValuta.csproj.GenerateResource.cache

@@ -1,0 +1,7 @@
+F:\MDIPaint (2)\MDIPaint\WindowsFormsControlLibrary2\bin\Debug\WindowsFormsControlLibrary2.dll
+F:\MDIPaint (2)\MDIPaint\WindowsFormsControlLibrary2\bin\Debug\WindowsFormsControlLibrary2.pdb
+F:\MDIPaint (2)\MDIPaint\WindowsFormsControlLibrary2\obj\Debug\WindowsFormsControlLibrary2.dll
+F:\MDIPaint (2)\MDIPaint\WindowsFormsControlLibrary2\obj\Debug\WindowsFormsControlLibrary2.pdb
+F:\MDIPaint (2)\MDIPaint\WindowsFormsControlLibrary2\obj\Debug\WindowsFormsControlLibrary2.RGBColor.resources
+F:\MDIPaint (2)\MDIPaint\WindowsFormsControlLibrary2\obj\Debug\WindowsFormsControlLibrary2.csproj.GenerateResource.Cache
+F:\MDIPaint (2)\MDIPaint\WindowsFormsControlLibrary2\obj\Debug\WindowsFormsControlLibrary2.csprojResolveAssemblyReference.cache

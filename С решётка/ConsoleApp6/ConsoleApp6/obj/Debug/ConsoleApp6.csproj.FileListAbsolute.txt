@@ -1,0 +1,42 @@
+C:\Users\USER\Desktop\ConsoleApp6\ConsoleApp6\bin\Debug\ConsoleApp6.exe.config
+C:\Users\USER\Desktop\ConsoleApp6\ConsoleApp6\bin\Debug\ConsoleApp6.exe
+C:\Users\USER\Desktop\ConsoleApp6\ConsoleApp6\bin\Debug\ConsoleApp6.pdb
+C:\Users\USER\Desktop\ConsoleApp6\ConsoleApp6\obj\Debug\ConsoleApp6.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\ConsoleApp6\ConsoleApp6\obj\Debug\ConsoleApp6.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\ConsoleApp6\ConsoleApp6\obj\Debug\ConsoleApp6.exe
+C:\Users\USER\Desktop\ConsoleApp6\ConsoleApp6\obj\Debug\ConsoleApp6.pdb
+C:\Users\USER\Desktop\ConsoleAppki2\ConsoleApp6\ConsoleApp6\bin\Debug\ConsoleApp6.exe.config
+C:\Users\USER\Desktop\ConsoleAppki2\ConsoleApp6\ConsoleApp6\bin\Debug\ConsoleApp6.exe
+C:\Users\USER\Desktop\ConsoleAppki2\ConsoleApp6\ConsoleApp6\bin\Debug\ConsoleApp6.pdb
+C:\Users\USER\Desktop\ConsoleAppki2\ConsoleApp6\ConsoleApp6\obj\Debug\ConsoleApp6.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\ConsoleAppki2\ConsoleApp6\ConsoleApp6\obj\Debug\ConsoleApp6.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\ConsoleAppki2\ConsoleApp6\ConsoleApp6\obj\Debug\ConsoleApp6.exe
+C:\Users\USER\Desktop\ConsoleAppki2\ConsoleApp6\ConsoleApp6\obj\Debug\ConsoleApp6.pdb
+C:\Users\USER\Desktop\ConsoleAppki\ConsoleAppki2\ConsoleApp6\ConsoleApp6\bin\Debug\ConsoleApp6.exe
+C:\Users\USER\Desktop\ConsoleAppki\ConsoleAppki2\ConsoleApp6\ConsoleApp6\bin\Debug\ConsoleApp6.exe.config
+C:\Users\USER\Desktop\ConsoleAppki\ConsoleAppki2\ConsoleApp6\ConsoleApp6\bin\Debug\ConsoleApp6.pdb
+C:\Users\USER\Desktop\ConsoleAppki\ConsoleAppki2\ConsoleApp6\ConsoleApp6\bin\Debug\ClassLibrary1.dll
+C:\Users\USER\Desktop\ConsoleAppki\ConsoleAppki2\ConsoleApp6\ConsoleApp6\bin\Debug\ClassLibrary1.pdb
+C:\Users\USER\Desktop\ConsoleAppki\ConsoleAppki2\ConsoleApp6\ConsoleApp6\obj\Debug\ConsoleApp6.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\ConsoleAppki\ConsoleAppki2\ConsoleApp6\ConsoleApp6\obj\Debug\ConsoleApp6.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\ConsoleAppki\ConsoleAppki2\ConsoleApp6\ConsoleApp6\obj\Debug\ConsoleApp6.csproj.CopyComplete
+C:\Users\USER\Desktop\ConsoleAppki\ConsoleAppki2\ConsoleApp6\ConsoleApp6\obj\Debug\ConsoleApp6.exe
+C:\Users\USER\Desktop\ConsoleAppki\ConsoleAppki2\ConsoleApp6\ConsoleApp6\obj\Debug\ConsoleApp6.pdb
+E:\С решётка\ConsoleApp6\ConsoleApp6\bin\Debug\ConsoleApp6.exe.config
+E:\С решётка\ConsoleApp6\ConsoleApp6\bin\Debug\ConsoleApp6.exe
+E:\С решётка\ConsoleApp6\ConsoleApp6\bin\Debug\ConsoleApp6.pdb
+E:\С решётка\ConsoleApp6\ConsoleApp6\bin\Debug\ClassLibrary1.dll
+E:\С решётка\ConsoleApp6\ConsoleApp6\bin\Debug\ClassLibrary1.pdb
+E:\С решётка\ConsoleApp6\ConsoleApp6\obj\Debug\ConsoleApp6.csprojResolveAssemblyReference.cache
+E:\С решётка\ConsoleApp6\ConsoleApp6\obj\Debug\ConsoleApp6.exe
+E:\С решётка\ConsoleApp6\ConsoleApp6\obj\Debug\ConsoleApp6.pdb
+F:\С решётка\ConsoleApp6\ConsoleApp6\bin\Debug\ConsoleApp6.exe.config
+F:\С решётка\ConsoleApp6\ConsoleApp6\bin\Debug\ConsoleApp6.exe
+F:\С решётка\ConsoleApp6\ConsoleApp6\bin\Debug\ConsoleApp6.pdb
+F:\С решётка\ConsoleApp6\ConsoleApp6\bin\Debug\ClassLibrary1.dll
+F:\С решётка\ConsoleApp6\ConsoleApp6\bin\Debug\ClassLibrary1.pdb
+F:\С решётка\ConsoleApp6\ConsoleApp6\obj\Debug\ConsoleApp6.csprojAssemblyReference.cache
+F:\С решётка\ConsoleApp6\ConsoleApp6\obj\Debug\ConsoleApp6.csproj.CoreCompileInputs.cache
+F:\С решётка\ConsoleApp6\ConsoleApp6\obj\Debug\ConsoleApp6.csproj.CopyComplete
+F:\С решётка\ConsoleApp6\ConsoleApp6\obj\Debug\ConsoleApp6.exe
+F:\С решётка\ConsoleApp6\ConsoleApp6\obj\Debug\ConsoleApp6.pdb

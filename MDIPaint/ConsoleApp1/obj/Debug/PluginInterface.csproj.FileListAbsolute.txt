@@ -1,0 +1,2 @@
+F:\MDIPaint\ConsoleApp1\obj\Debug\PluginInterface.csproj.CoreCompileInputs.cache
+F:\MDIPaint\ConsoleApp1\obj\Debug\PluginInterface.csproj.AssemblyReference.cache

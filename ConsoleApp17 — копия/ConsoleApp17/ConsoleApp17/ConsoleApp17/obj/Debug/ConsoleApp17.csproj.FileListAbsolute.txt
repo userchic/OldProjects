@@ -1,0 +1,35 @@
+C:\Users\USER\Desktop\ConsoleAppki\ConsoleAppki2\ConsoleApp17\ConsoleApp17\obj\Debug\ConsoleApp17.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\ConsoleAppki\ConsoleAppki2\ConsoleApp17\ConsoleApp17\obj\Debug\ConsoleApp17.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\ConsoleAppki\ConsoleAppki2\ConsoleApp17\ConsoleApp17\bin\Debug\ConsoleApp17.exe.config
+C:\Users\USER\Desktop\ConsoleAppki\ConsoleAppki2\ConsoleApp17\ConsoleApp17\bin\Debug\ConsoleApp17.exe
+C:\Users\USER\Desktop\ConsoleAppki\ConsoleAppki2\ConsoleApp17\ConsoleApp17\bin\Debug\ConsoleApp17.pdb
+C:\Users\USER\Desktop\ConsoleAppki\ConsoleAppki2\ConsoleApp17\ConsoleApp17\obj\Debug\ConsoleApp17.exe
+C:\Users\USER\Desktop\ConsoleAppki\ConsoleAppki2\ConsoleApp17\ConsoleApp17\obj\Debug\ConsoleApp17.pdb
+C:\Users\Polina_Rihter\Downloads\ConsoleApp17\ConsoleApp17\ConsoleApp17\bin\Debug\ConsoleApp17.exe.config
+C:\Users\Polina_Rihter\Downloads\ConsoleApp17\ConsoleApp17\ConsoleApp17\bin\Debug\ConsoleApp17.exe
+C:\Users\Polina_Rihter\Downloads\ConsoleApp17\ConsoleApp17\ConsoleApp17\bin\Debug\ConsoleApp17.pdb
+C:\Users\Polina_Rihter\Downloads\ConsoleApp17\ConsoleApp17\ConsoleApp17\obj\Debug\ConsoleApp17.csprojAssemblyReference.cache
+C:\Users\Polina_Rihter\Downloads\ConsoleApp17\ConsoleApp17\ConsoleApp17\obj\Debug\ConsoleApp17.csproj.CoreCompileInputs.cache
+C:\Users\Polina_Rihter\Downloads\ConsoleApp17\ConsoleApp17\ConsoleApp17\obj\Debug\ConsoleApp17.exe
+C:\Users\Polina_Rihter\Downloads\ConsoleApp17\ConsoleApp17\ConsoleApp17\obj\Debug\ConsoleApp17.pdb
+C:\Users\USER\Desktop\ConsoleApp17\ConsoleApp17\ConsoleApp17\ConsoleApp17\obj\Debug\ConsoleApp17.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\ConsoleApp17\ConsoleApp17\ConsoleApp17\ConsoleApp17\obj\Debug\ConsoleApp17.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\ConsoleApp17\ConsoleApp17\ConsoleApp17\ConsoleApp17\obj\Debug\ConsoleApp17.exe
+C:\Users\USER\Desktop\ConsoleApp17\ConsoleApp17\ConsoleApp17\ConsoleApp17\obj\Debug\ConsoleApp17.pdb
+C:\Users\USER\Desktop\ConsoleApp17\ConsoleApp17\ConsoleApp17\ConsoleApp17\bin\Debug\ConsoleApp17.exe.config
+C:\Users\USER\Desktop\ConsoleApp17\ConsoleApp17\ConsoleApp17\ConsoleApp17\bin\Debug\ConsoleApp17.exe
+C:\Users\USER\Desktop\ConsoleApp17\ConsoleApp17\ConsoleApp17\ConsoleApp17\bin\Debug\ConsoleApp17.pdb
+C:\Users\USER\Desktop\ConsoleApp17 — копия\ConsoleApp17\ConsoleApp17\ConsoleApp17\bin\Debug\ConsoleApp17.exe.config
+C:\Users\USER\Desktop\ConsoleApp17 — копия\ConsoleApp17\ConsoleApp17\ConsoleApp17\bin\Debug\ConsoleApp17.exe
+C:\Users\USER\Desktop\ConsoleApp17 — копия\ConsoleApp17\ConsoleApp17\ConsoleApp17\bin\Debug\ConsoleApp17.pdb
+C:\Users\USER\Desktop\ConsoleApp17 — копия\ConsoleApp17\ConsoleApp17\ConsoleApp17\obj\Debug\ConsoleApp17.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\ConsoleApp17 — копия\ConsoleApp17\ConsoleApp17\ConsoleApp17\obj\Debug\ConsoleApp17.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\ConsoleApp17 — копия\ConsoleApp17\ConsoleApp17\ConsoleApp17\obj\Debug\ConsoleApp17.exe
+C:\Users\USER\Desktop\ConsoleApp17 — копия\ConsoleApp17\ConsoleApp17\ConsoleApp17\obj\Debug\ConsoleApp17.pdb
+D:\ConsoleApp17 — копия\ConsoleApp17\ConsoleApp17\ConsoleApp17\bin\Debug\ConsoleApp17.exe.config
+D:\ConsoleApp17 — копия\ConsoleApp17\ConsoleApp17\ConsoleApp17\bin\Debug\ConsoleApp17.exe
+D:\ConsoleApp17 — копия\ConsoleApp17\ConsoleApp17\ConsoleApp17\bin\Debug\ConsoleApp17.pdb
+D:\ConsoleApp17 — копия\ConsoleApp17\ConsoleApp17\ConsoleApp17\obj\Debug\ConsoleApp17.csprojAssemblyReference.cache
+D:\ConsoleApp17 — копия\ConsoleApp17\ConsoleApp17\ConsoleApp17\obj\Debug\ConsoleApp17.csproj.CoreCompileInputs.cache
+D:\ConsoleApp17 — копия\ConsoleApp17\ConsoleApp17\ConsoleApp17\obj\Debug\ConsoleApp17.exe
+D:\ConsoleApp17 — копия\ConsoleApp17\ConsoleApp17\ConsoleApp17\obj\Debug\ConsoleApp17.pdb

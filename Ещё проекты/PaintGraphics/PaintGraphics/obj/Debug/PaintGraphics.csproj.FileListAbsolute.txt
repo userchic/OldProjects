@@ -1,0 +1,11 @@
+C:\Users\USER\Desktop\PaintGraphics\PaintGraphics\bin\Debug\PaintGraphics.exe.config
+C:\Users\USER\Desktop\PaintGraphics\PaintGraphics\bin\Debug\PaintGraphics.exe
+C:\Users\USER\Desktop\PaintGraphics\PaintGraphics\bin\Debug\PaintGraphics.pdb
+C:\Users\USER\Desktop\PaintGraphics\PaintGraphics\obj\Debug\PaintGraphics.Form1.resources
+C:\Users\USER\Desktop\PaintGraphics\PaintGraphics\obj\Debug\PaintGraphics.Properties.Resources.resources
+C:\Users\USER\Desktop\PaintGraphics\PaintGraphics\obj\Debug\PaintGraphics.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\PaintGraphics\PaintGraphics\obj\Debug\PaintGraphics.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\PaintGraphics\PaintGraphics\obj\Debug\PaintGraphics.exe
+C:\Users\USER\Desktop\PaintGraphics\PaintGraphics\obj\Debug\PaintGraphics.pdb
+C:\Users\USER\Desktop\PaintGraphics\PaintGraphics\obj\Debug\PaintGraphics.DataTable.resources
+C:\Users\USER\Desktop\PaintGraphics\PaintGraphics\obj\Debug\PaintGraphics.csproj.AssemblyReference.cache

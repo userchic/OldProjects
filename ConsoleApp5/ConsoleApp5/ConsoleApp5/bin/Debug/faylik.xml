@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<описания-книг>
+  <title-info num="20,22">
+    <genre match="90,99">sf_fantasy</genre>
+    <author validated="0,01" likes_chocolate="9,6666">
+      <first-name num="1,01">Джон</first-name>
+      <middle-name num="1,02">Рональд Руэл</middle-name>
+      <last-name num="1,03">Толкин</last-name>
+    </author>
+    <book-title num="1,04">Возвращение Короля</book-title>
+    <lang num="2,04">ru</lang>
+    <sequence name="872743718,34122" number="3,000002" />
+  </title-info>
+  <first-name num="0,123">Джони</first-name>
+  <author num="0,1234"> Не автор </author>
+</описания-книг>
