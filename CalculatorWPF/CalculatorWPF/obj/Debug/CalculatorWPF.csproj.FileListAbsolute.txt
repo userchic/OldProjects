@@ -15,3 +15,22 @@ C:\Users\USER\Desktop\CalculatorWPF\CalculatorWPF\obj\Debug\CalculatorWPF.pdb
 C:\Users\USER\Desktop\CalculatorWPF\CalculatorWPF\bin\Debug\NCalc.dll
 C:\Users\USER\Desktop\CalculatorWPF\CalculatorWPF\obj\Debug\CalculatorWPF.csproj.AssemblyReference.cache
 C:\Users\User\Desktop\CalculatorWPF\CalculatorWPF\obj\Debug\Calculat.0BCC9792.Up2Date
+C:\Users\User\Desktop\Git reposik\CalculatorWPF\CalculatorWPF\bin\Debug\CalculatorWPF.exe.config
+C:\Users\User\Desktop\Git reposik\CalculatorWPF\CalculatorWPF\bin\Debug\CalculatorWPF.exe
+C:\Users\User\Desktop\Git reposik\CalculatorWPF\CalculatorWPF\bin\Debug\CalculatorWPF.pdb
+C:\Users\User\Desktop\Git reposik\CalculatorWPF\CalculatorWPF\bin\Debug\NCalc.dll
+C:\Users\User\Desktop\Git reposik\CalculatorWPF\CalculatorWPF\obj\Debug\CalculatorWPF.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Git reposik\CalculatorWPF\CalculatorWPF\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\Git reposik\CalculatorWPF\CalculatorWPF\obj\Debug\App.g.cs
+C:\Users\User\Desktop\Git reposik\CalculatorWPF\CalculatorWPF\obj\Debug\CalculatorWPF_MarkupCompile.cache
+C:\Users\User\Desktop\Git reposik\CalculatorWPF\CalculatorWPF\obj\Debug\CalculatorWPF_MarkupCompile.lref
+C:\Users\User\Desktop\Git reposik\CalculatorWPF\CalculatorWPF\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\Git reposik\CalculatorWPF\CalculatorWPF\obj\Debug\CalculatorWPF.g.resources
+C:\Users\User\Desktop\Git reposik\CalculatorWPF\CalculatorWPF\obj\Debug\CalculatorWPF.Properties.Resources.resources
+C:\Users\User\Desktop\Git reposik\CalculatorWPF\CalculatorWPF\obj\Debug\CalculatorWPF.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Git reposik\CalculatorWPF\CalculatorWPF\obj\Debug\CalculatorWPF.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Git reposik\CalculatorWPF\CalculatorWPF\obj\Debug\Calculat.0BCC9792.Up2Date
+C:\Users\User\Desktop\Git reposik\CalculatorWPF\CalculatorWPF\obj\Debug\CalculatorWPF.exe
+C:\Users\User\Desktop\Git reposik\CalculatorWPF\CalculatorWPF\obj\Debug\CalculatorWPF.pdb
+C:\Users\User\Desktop\Git reposik\CalculatorWPF\CalculatorWPF\obj\Debug\Styles\dark.baml
+C:\Users\User\Desktop\Git reposik\CalculatorWPF\CalculatorWPF\obj\Debug\Styles\light.baml

@@ -21,10 +21,13 @@ namespace CalculatorWPF
     public partial class MainWindow : Window
     {
         public char[] actions = new char[] {'+','-','*','/'};
+        public char[] numbers = new char[] {'1','2','3','4', '5', '6', '7', '8','9','0' };
         public int OpenBracketsNum=0;
+        
         public MainWindow()
         {
             InitializeComponent();
+            ChangeStyle("light");
         }
         private void BClick(object sender, RoutedEventArgs e)
         {
@@ -91,9 +94,31 @@ namespace CalculatorWPF
                 Expression.Text = res.ToString();
             }
             catch { MessageBox.Show("ошибочка вышла"); }
+            
+        }
+        private void CheckedChange(object sender,EventArgs e)
+        {
+            if ((bool)StyleCheckBox.IsChecked)
+            {
+                string style = "dark";
+                ChangeStyle(style);
+            }
+            else
+            {
+                string style = "light";
+                ChangeStyle(style);
+            }
+
+        }
+        public void ChangeStyle(string style)
+        {
+            var uri = new Uri("/Styles/" + style + ".xaml", UriKind.Relative);
+            ResourceDictionary resourceDict = Application.LoadComponent(uri) as ResourceDictionary;
+            Application.Current.Resources.Clear();
+            Application.Current.Resources.MergedDictionaries.Add(resourceDict);
         }
         public bool LastSymbolIsAction() => actions.Contains(Expression.Text.Last());
-        public bool LastSymbolIsNumber() => !actions.Contains(Expression.Text.Last());
+        public bool LastSymbolIsNumber() => numbers.Contains(Expression.Text.Last());
         public bool LastSymbolISOpenBracket() => Expression.Text.Last() == '(';
         public bool LastSymbolISClosingBracket() => Expression.Text.Last() == ')';
     }

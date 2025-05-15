@@ -5,7 +5,14 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:CalculatorWPF"
         mc:Ignorable="d"
-        Title="DockPanel" Height="350" Width="400">
+        Title="DockPanel" Height="350" Width="400" Style="{DynamicResource WindowStyle}">
+    <DockPanel>
+        <Menu DockPanel.Dock="Top">
+            <MenuItem Header="File">
+                <CheckBox x:Name="StyleCheckBox" Content="Темный режим" Checked="CheckedChange" Unchecked="CheckedChange"></CheckBox>
+            </MenuItem>
+            
+        </Menu>
     <Grid ShowGridLines="False">
         <Grid.RowDefinitions>
             <RowDefinition Height="*"  ></RowDefinition>
@@ -22,29 +29,30 @@
             <ColumnDefinition></ColumnDefinition>
             <ColumnDefinition></ColumnDefinition>
         </Grid.ColumnDefinitions>
-        <TextBlock x:Name="Expression" FontSize="20" Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="3" HorizontalAlignment="Left" Background="White" Text="0"/>
+            <TextBlock x:Name="Expression" FontSize="20" Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="3" HorizontalAlignment="Left"  Text="0" Style="{DynamicResource TextBlockStyle}"/>
         <GridSplitter Grid.Row="1" Grid.ColumnSpan="4" Height="3" HorizontalAlignment="Stretch" VerticalAlignment="Center"/>
-        <Button Content="Del" x:Name="DelB" Grid.Column="2" Grid.Row="2" Background="Gray" Click="DeleteClick">
+            <Button Content="Del" x:Name="DelB" Grid.Column="2" Grid.Row="2" Click="DeleteClick" Style="{DynamicResource ActionButtonStyle}">
             
         </Button>
-        <Button x:Name="b1" Grid.Column="0" Grid.Row="3" Background="White" Click="NClick" Content="1"/>
-        <Button x:Name="b2" Grid.Column="1" Grid.Row="3" Background="White" Click="NClick" Content="2"/>
-        <Button x:Name="b3" Grid.Column="2" Grid.Row="3" Background="White" Click="NClick" Content="3"/>
-        <Button x:Name="b4" Grid.Column="0" Grid.Row="4" Background="White" Click="NClick" Content="4"/>
-        <Button x:Name="b5" Grid.Column="1" Grid.Row="4" Background="White" Click="NClick" Content="5"/>
-        <Button  Grid.Column="2" Grid.Row="4" Background="White" Click="NClick" Content="6"/>
-        <Button x:Name="b7" Grid.Column="0" Grid.Row="5" Background="White" Click="NClick" Content="7"/>
-        <Button x:Name="b8" Grid.Column="1" Grid.Row="5" Background="White" Click="NClick" Content="8"/>
-        <Button x:Name="b9" Grid.Column="2" Grid.Row="5" Background="White" Click="NClick" Content="9"/>
-        <Button x:Name="b0" Grid.Column="1" Grid.Row="6" Background="White" Click="NClick" Content="0"/>
-        <Button x:Name="bAdd" Grid.Column="3" Grid.Row="3"  Background="LightGray" Click="BClick" Content="+"/>
-        <Button x:Name="bDec" Grid.Column="3" Grid.Row="4"  Background="LightGray" Click="BClick" Content="-"/>
-        <Button x:Name="bTim" Grid.Column="3" Grid.Row="5"  Background="LightGray" Click="BClick" Content="*"/>
-        <Button x:Name="bdiv" Grid.Column="3" Grid.Row="6"  Background="LightGray" Click="BClick" Content="/"/>
-        <Button x:Name="bOpenBeacket" Grid.Column="0" Grid.Row="6" Background="LightGray" Click="BracketClick" Content="("/>
-        <Button x:Name="bCloseBracket" Grid.Column="2" Grid.Row="6" Background="LightGray" Click="BracketClick" Content=")"/>
-            <Button Grid.Column="3" Grid.Row="0" Click="Calculate">
+            <Button x:Name="b1" Grid.Column="0" Grid.Row="3"  Click="NClick" Content="1" Style="{DynamicResource ButtonStyle}"/>
+            <Button x:Name="b2" Grid.Column="1" Grid.Row="3"  Click="NClick" Content="2" Style="{DynamicResource ButtonStyle}"/>
+            <Button x:Name="b3" Grid.Column="2" Grid.Row="3"  Click="NClick" Content="3" Style="{DynamicResource ButtonStyle}"/>
+            <Button x:Name="b4" Grid.Column="0" Grid.Row="4"  Click="NClick" Content="4" Style="{DynamicResource ButtonStyle}"/>
+            <Button x:Name="b5" Grid.Column="1" Grid.Row="4"  Click="NClick" Content="5" Style="{DynamicResource ButtonStyle}"/>
+            <Button  Grid.Column="2" Grid.Row="4"  Click="NClick" Content="6" Style="{DynamicResource ButtonStyle}"/>
+            <Button x:Name="b7" Grid.Column="0" Grid.Row="5"  Click="NClick" Content="7" Style="{DynamicResource ButtonStyle}"/>
+            <Button x:Name="b8" Grid.Column="1" Grid.Row="5"  Click="NClick" Content="8" Style="{DynamicResource ButtonStyle}"/>
+            <Button x:Name="b9" Grid.Column="2" Grid.Row="5"  Click="NClick" Content ="9" Style="{DynamicResource ButtonStyle}"/>
+            <Button x:Name="b0" Grid.Column="1" Grid.Row="6"  Click="NClick" Content="0" Style="{DynamicResource ButtonStyle}"/>
+            <Button x:Name="bAdd" Grid.Column="3" Grid.Row="3"   Click="BClick" Content="+" Style="{DynamicResource ActionButtonStyle}"/>
+            <Button x:Name="bDec" Grid.Column="3" Grid.Row="4"   Click="BClick" Content="-" Style="{DynamicResource ActionButtonStyle}"/>
+            <Button x:Name="bTim" Grid.Column="3" Grid.Row="5"   Click="BClick" Content="*" Style="{DynamicResource ActionButtonStyle}"/>
+            <Button x:Name="bdiv" Grid.Column="3" Grid.Row="6"   Click="BClick" Content="/" Style="{DynamicResource ActionButtonStyle}"/>
+            <Button x:Name="bOpenBeacket" Grid.Column="0" Grid.Row="6"  Click="BracketClick" Content="(" Style="{DynamicResource ActionButtonStyle}"/>
+            <Button x:Name="bCloseBracket" Grid.Column="2" Grid.Row="6"  Click="BracketClick" Content=")" Style="{DynamicResource ActionButtonStyle}"/>
+            <Button Grid.Column="3" Grid.Row="0" Click="Calculate" Style="{DynamicResource ActionButtonStyle}">
             <Image Source="C:\Users\USER\Desktop\Accept.png" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Height="63" Width="88" />
         </Button>
     </Grid>
+    </DockPanel>
 </Window>
